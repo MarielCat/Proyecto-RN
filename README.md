@@ -1,7 +1,4 @@
-# Gatección: Detección del Estado de Ánimo en Gatos mediante Imágenes
-
-Este proyecto está contenido en un único Jupyter Notebook que cubre todo el flujo: desde la preparación de datos hasta la inferencia interactiva.
----
+# Gatección: Detección del Estado de Ánimo en Gatos mediante ImágeneS
 
 ## Desarrollado por:
 
@@ -10,9 +7,13 @@ Erik Eduardo Gómez López
 Maryam Michelle Del Monte Ortega
 
 Sahara Mariel Monroy Romero
+
 ---
 
 ## Estructura del Notebook
+
+Este proyecto está contenido en un único Jupyter Notebook que cubre todo el flujo: desde la preparación de datos hasta la inferencia interactiva.
+
 
 1. **Introducción y Objetivos**  
    Descripción del problema, datasets utilizados y objetivo final.

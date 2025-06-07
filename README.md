@@ -42,6 +42,25 @@ Este proyecto está contenido en un único Jupyter Notebook que cubre todo el fl
 
 ---
 
+## Estructura de Carpetas de Datos
+
+- **Entrenamiento**  
+  `archive/data/labeled/conjunto2/`  
+    alerta/
+    dormido/
+    enojado/
+    neutral/
+- **Validación / Pruebas**  
+  `archive/data/labeled/conjunto-pruebas/`  
+    alerta/
+    dormido/
+    enojado/
+    neutral/
+    
+Cada subcarpeta contiene las imágenes correspondientes a esa emoción.
+
+---
+
 ## Cómo ejecutar paso a paso
 
 1. **Abrir el Notebook**  
@@ -55,3 +74,4 @@ Este proyecto está contenido en un único Jupyter Notebook que cubre todo el fl
 Si al ejecutar el notebook aparece un error de módulo faltante, favor de instala la dependencia.
 
 Para más información detallada, consultar la documentación de Gateccion.ipynb ó Gateccion_Reporte.pdf.
+
